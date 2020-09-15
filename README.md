@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Live Demo https://http://gallery-app-byraza.surge.sh
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
