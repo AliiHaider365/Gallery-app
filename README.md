@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-Live Demo gallery-app-byraza.surge.sh
+Live Demo http://gallery-app-byraza.surge.sh
 
 ### `npm start`
 
